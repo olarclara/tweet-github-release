@@ -1,0 +1,19 @@
+{
+  "name": "tweet-github-release",
+  "version": "0.0.1",
+  "description": "Little project built with Auth0's webtask that posts on Twitter new repo releases.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olarclara/tweet-github-release.git"
+  },
+  "author": "Maria Clara Santana <claarasantana@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olarclara/tweet-github-release/issues"
+  },
+  "homepage": "https://github.com/olarclara/tweet-github-release#readme",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
+}
